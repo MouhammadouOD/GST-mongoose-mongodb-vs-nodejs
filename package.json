@@ -1,0 +1,17 @@
+{
+  "name": "gst-mongoose-mongodb-vs-nodejs",
+  "version": "1.0.0",
+  "description": "GoMyCode checkpoint - Mongoose & NodeJS VS MongoDB (Person model CRUD exercises)",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.9.0",
+    "mongoose": "^6.13.8"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^9.4.1"
+  }
+}
